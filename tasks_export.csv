@@ -1,0 +1,8 @@
+"task","done","priority","date","recurring"
+"Complete mern stack",false,"High","2025-03-09",
+"Complete springboot",true,"High","2025-03-4",
+"Buy milk",true,"High","2025-03-10",
+"Buy milk",false,"High","2025-03-10",
+"Workout",false,"High","2025-03-11","daily"
+"Workout",false,"High","2025-03-11","daily"
+"TeamWork",false,"High","2025-03-11","daily"

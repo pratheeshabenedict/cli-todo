@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}

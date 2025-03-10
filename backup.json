@@ -7,13 +7,13 @@
   },
   {
     "task": "Complete springboot",
-    "done": true,
+    "done": false,
     "priority": "High",
     "date": "2025-03-4"
   },
   {
     "task": "Buy milk",
-    "done": true,
+    "done": false,
     "priority": "High",
     "date": "2025-03-10"
   },
@@ -34,14 +34,7 @@
     "task": "Workout",
     "done": false,
     "priority": "High",
-    "date": "2025-03-11",
-    "recurring": "daily"
-  },
-  {
-    "task": "TeamWork",
-    "done": false,
-    "priority": "High",
-    "date": "2025-03-11",
+    "date": "2025-03-09",
     "recurring": "daily"
   }
 ]
